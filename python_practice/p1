@@ -1,0 +1,5 @@
+ch=input('enter a char to check')
+if ch>='0' and ch<='9':
+    print('it is a digit')
+else:
+    print('it is not a digit')
