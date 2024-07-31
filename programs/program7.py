@@ -1,4 +1,4 @@
-
+#to check the average score and mention which category it belongs
 score=int(input("Enter the average score to check"))
 if score>=0 and score<=49:
     print('fail')

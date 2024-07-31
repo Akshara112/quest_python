@@ -1,7 +1,4 @@
 #check if a no is a perfect square
-
-
-
 print('Enter a digit')
 number = input()
 flag=0
