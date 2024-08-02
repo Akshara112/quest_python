@@ -1,0 +1,10 @@
+numbers = [2, 9, 7, 5, 3, 13, 19, 17, 29]
+print(numbers)
+print(numbers[0])
+print(numbers[:3])
+print(numbers[1:-1])
+print(numbers[1:8:2])
+print(numbers[::3])
+print(numbers[8:1:-2])
+print(numbers[::-1])
+print(numbers[8:0:-2])
