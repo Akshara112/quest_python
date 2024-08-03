@@ -13,4 +13,4 @@ print(text4.isdigit())  # Output: True
 print(text1.isdecimal())  # Output: True
 print(text2.isdecimal())  # Output: False
 print(text3.isdecimal())  # Output: True
-print(text4.isdigit())
+print(text4.isdecimal())

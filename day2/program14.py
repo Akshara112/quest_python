@@ -1,4 +1,4 @@
-#Program to accept number of lines of the Triangle and draw the Trianlge
+#Program to accept number of lines of the Triangle and draw the Triangle
 
 number_of_lines = int(input('Enter number of lines of the Triangle: '))
 
