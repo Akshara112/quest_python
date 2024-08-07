@@ -37,9 +37,3 @@ print(f"Result: {result}")
 
 
     
-'''
-# Example Usage
-print(process_data("hello", "world"))  # Output: "hello world"
-print(process_data(5, 3))              # Output: 8
-print(process_data("value", 10))       # Output: "value10"
-print(process_data(10, "value"))       # Output: "10value"'''
