@@ -1,4 +1,4 @@
-# to calculate total earnings
+#to process 4 queries
 N = int(input())
 queries = [input().strip() for _ in range(N)]
 

@@ -1,4 +1,4 @@
-#to process 4 queries
+# to calculate total earnings
 number_of_shoes, pairs_carry = map(int, input().split())
 prices = list(map(int, input().split()))
 
